@@ -1,0 +1,6 @@
+{
+  "name": "Fantasy Character Generator",
+  "description": "An ancient alchemist's workbench fantasy character generator featuring stylized player cards, cartoon RPG portraits, stats, backstories, and deck collection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
